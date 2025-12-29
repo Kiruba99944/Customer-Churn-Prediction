@@ -82,7 +82,7 @@ Customer-Churn-Prediction/
 - Python (pandas, numpy, scikit-learn)
 - Machine Learning (Logistic Regression)
 - Power BI
-- Jupyter Notebook
+- Colab
 
 ---
 
