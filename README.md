@@ -46,7 +46,7 @@ Selected due to:
 
 ## 📈 Key Insights
 - Month-to-month contracts show highest churn  
-- Early-tenure customers (0–12 months) are most vulnerable  
+- Early-tenure customers (0-12 months) are most vulnerable  
 - Higher monthly charges increase churn risk  
 
 ---
